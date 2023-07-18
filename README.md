@@ -151,5 +151,5 @@ Create 4 new help topics (Business Critical Outage, Personal Computer Issues, Eq
 </p>
 <br />
 
-CONGRATULAIONS 🎉, you've finished basic configuration of osTicket! 
+CONGRATULATIONS 🎉, you've finished basic configuration of osTicket! 
 
