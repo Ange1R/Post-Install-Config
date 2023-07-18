@@ -18,11 +18,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure Roles
+- Configure Departments
+- Configure Teams
+- Configure Agents
+- Configure Users
+- Configure SLAs
 
 <h2>Configuration Steps</h2>
 
@@ -148,5 +149,5 @@ Create 4 new help topics (Business Critical Outage, Personal Computer Issues, Eq
 </p>
 <br />
 
-CONGRATULAIONS 🎉, you'
+CONGRATULAIONS 🎉, you've finished basic configuration of osTicket! 
 
