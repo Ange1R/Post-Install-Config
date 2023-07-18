@@ -27,7 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-Step 1: Open and login to osTicket via your web broswer (http://localhost/osTicket/scp/login.php)
+Step 1: Open and log into osTicket via your web broswer (http://localhost/osTicket/scp/login.php)
 <p>
 <img Screenshot 2023-07-18 at 3 02 21 PM" src="https://github.com/areyes302/post-install-config/assets/139584521/f8e1c93a-e430-4fe9-9f5f-d462f377b1f1">
 <p>
