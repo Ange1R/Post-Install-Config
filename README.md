@@ -98,6 +98,8 @@ Next head over to the Teams tab and assign the user to the Level II Support and 
 <img Screenshot 2023-07-18 at 4 09 54 PM" src="https://github.com/areyes302/post-install-config/assets/139584521/a192e718-397e-43fd-be10-7cf9aacbd38a">
 </p>
 Repeat Step 6 to create another Agent with their Department being Support
+<p>
+<img Screenshot 2023-07-18 at 5 08 18 PM" src="https://github.com/areyes302/post-install-config/assets/139584521/f33d7356-6b70-4f8b-bfa7-5281afee2cbc">
 </p>
 <br />
 
