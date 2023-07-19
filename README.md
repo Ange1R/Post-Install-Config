@@ -91,7 +91,7 @@ Click Set Password - Uncheck the box - Create password for agent - Uncheck the b
 </p>
 Head over to the Access tab and assign the user's Primary Department
 <p>
-<img Screenshot 2023-07-18 at 4 04 49 PM" src="https://github.com/areyes302/post-install-config/assets/139584521/a8446a74-4699-462c-ba25-1a903bcef850">
+<img Screenshot 2023-07-19 at 11 17 40 AM" src="https://github.com/areyes302/Post-Install-Config/assets/139584521/9d20295a-57e4-49f6-8903-56729f6e2829">
 </p>
 Next head over to the Teams tab and assign the user to the Level II Support and click Create
 <p>
